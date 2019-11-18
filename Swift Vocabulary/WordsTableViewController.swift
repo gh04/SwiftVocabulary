@@ -17,7 +17,7 @@ class WordsTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-    
+    }
     // MARK: - Table view data source
 
 
@@ -35,8 +35,6 @@ class WordsTableViewController: UITableViewController {
 
         return cell
     }
-    
-
 
     // MARK: - Navigation
 
@@ -57,3 +55,4 @@ class WordsTableViewController: UITableViewController {
     }
 
 }
+
